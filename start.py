@@ -16,3 +16,5 @@ for i in range(50):
         c += 1
 
 input('нажмите enter')
+
+#оставил коммент
