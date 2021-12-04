@@ -124,3 +124,5 @@ def gameLoop():
 
 
 gameLoop()
+
+# коммент для змейки
