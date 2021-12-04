@@ -14,3 +14,5 @@ for i in range(50):
         c = 0
     else:
         c += 1
+
+input('нажмите enter')
